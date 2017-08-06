@@ -1,0 +1,71 @@
+﻿@model List<OnlineSeller.Models.CartItem>
+@{
+    ViewBag.Title = "CJ Shop - Payment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Payment</h2>
+
+<div class="content">
+    <div class="section group">
+        @if (Model.Count > 0)
+        {
+            <table class="table">
+                <thead>
+                <tr>
+                    <td>Product ID</td>
+                    <td>Name</td>
+                    <td>Image</td>
+                    <td>Quantity</td>
+                    <td>Price</td>
+                    <td>Total</td>
+                    <td></td>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Product.ID</td>
+                        <td>@item.Product.Name</td>
+                        <td><img src="@item.Product.Img" width="100"/></td>
+                        <td><input type="text" class="txtQuantity" data-id="@item.Product.ID" value="@item.Quantity"/></td>
+                        <td>@item.Product.price.GetValueOrDefault(0).ToString("N0")</td>
+                        <td>@((item.Product.price.GetValueOrDefault(0)*item.Quantity).ToString("N0"))</td>
+                        <td><a href="#" data-id="@item.Product.ID" class="btn-delete">Delete</a></td>
+                    </tr>
+                }
+
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+
+<div class="section group">
+    <div class="col-md-6">
+        @using (Html.BeginForm("Payment", "Cart", FormMethod.Post))
+            {
+            <div class="form-group">
+                <label>Receiver Name</label>
+                <input name="shipName" class="form-control" />
+            </div>
+                <div class="form-group">
+                    <label>Phone</label>
+                    <input name="mobile" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Address </label>
+                    <input name="address" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input name="email" class="form-control" />
+                </div>
+                <button type="submit" class="btn">Submit</button>
+        }
+    </div>
+
+</div>
+

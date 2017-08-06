@@ -1,0 +1,73 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <title>CJ Shop</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link href="/Assets/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/Assets/css/slider.css" rel="stylesheet" type="text/css" media="all" />
+
+    <script src="/Scripts/jquery-1.11.3.min.js"></script>
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <!--Bootstrap add by me -->
+    <link href="/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="/Assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="/Content/PagedList.css" rel="stylesheet" />
+    <link href="/Content/jquery-ui.min.css" rel="stylesheet" />
+
+    <!-- jQuery add by me -->
+    
+    <script src="/Scripts/jquery-ui.min.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/Assets/js/move-top.js"></script>
+    <script type="text/javascript" src="/Assets/js/easing.js"></script>
+    <script type="text/javascript" src="/Assets/js/startstop-slider.js"></script>
+    @RenderSection("Script_header",required:false)
+</head>
+<body>
+<div class="wrap">
+    <div class="header">
+        <!---------------------Header Menu Top ------------------>
+        @*@RenderPage("_TopMenu.cshtml")*@
+        @{Html.RenderAction("_TopMenu", "Home"); }
+        <!---------------------End Header Menu Top ------------------>
+
+        <!---------------------Header Menu Bottom ------------------>
+        @*@RenderPage("_MainMenu.cshtml")*@
+        @{Html.RenderAction("_MainMenu","Home"); }
+        <!---------------------End Header Menu Bottom ------------------>
+
+        <div class="header_slide">
+            <!---------------------Menu Left ------------------>
+            @*@RenderPage("Menu_Left.cshtml")*@
+
+            @RenderSection("Menu_Left",required:false)
+            <!---------------------End Menu Left ------------------>
+
+            <!---------------------Slide ------------------>
+            @RenderSection("Slide", required: false)
+            <div class="clear"></div>
+            <!---------------------End Slide------------------>
+        </div>
+    </div>
+    <div class="main">
+        <div class="content">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+
+<!-------------------------Footer----------------------------->
+@*@RenderPage("_Footer.cshtml")*@
+    @{Html.RenderAction("_Footer","Home");}
+<!-------------------------End Footer----------------------------->
+<script type="text/javascript">
+    $(document).ready(function() {
+        $().UItoTop({ easingType: 'easeOutQuart' });
+    });
+</script>
+    @RenderSection("jsFooter",required:false)
+    <a href="#" id="toTop"><span id="toTopHover"> </span></a>
+</body>
+</html>

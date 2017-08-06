@@ -1,0 +1,94 @@
+﻿@using PagedList.Mvc;
+@model PagedList.IPagedList<Model.EF.User>
+@{
+    ViewBag.Title = "Add user";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@section header{
+    <h2>Manage Users</h2>
+}
+
+@section jsFooter{
+    <script src="/Scripts/plugin/UserController/Usercontroller.js"></script>
+}
+<div class="row">
+    <div class="col-lg-12">
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                User List
+            </div>
+
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                @using (Html.BeginForm("Index", "User", FormMethod.Get))
+                {
+                    <div class="row form-group">
+                        <div class="col-lg-12">
+                            <div class="col-md-4">
+                                <input type="text" value="@ViewBag.searchString" class="form-control" name="searchString" placeholder="type Username or Name to search..." />
+                            </div>
+                            <div class="col-md-4">
+                                <button type="submit" class="btn btn-success">Seacrh</button>
+                                <a class="btn btn-primary" href="/Admin/User/Create">Create New</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover">
+                        <thead>
+                            <tr>
+
+                                <th>Username</th>
+                                <th>Name</th>
+                                <th>Email</th>
+                                <th>Status</th>
+                                <th>#</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr id="row_@item.ID">
+
+                                    <td>@item.UserName</td>
+                                    <td>@item.Name</td>
+                                    <td>@item.Email</td>
+                                    <td><a href="#" class="btn-active" data-id="@item.ID">
+                                        @if (item.Status == true)
+                                        {
+                                            @Html.Raw("<strong>Active</strong>");
+                                        }
+                                        else
+                                        {
+                                            @Html.Raw("Locked");
+                                        } 
+                                    </a></td>
+                                    
+                                    <td>
+                                        <a href="/Admin/User/Edit/@item.ID" class="btn btn-default">Edit</a>
+                                        |
+                                        @Ajax.ActionLink("Delete ", "Delete", new { @id = item.ID, @class = "btn btn-danger" }, new AjaxOptions
+                                           {
+                                               Confirm = "Do you want to delete this record?",
+                                               OnComplete = "$('#row_" + @item.ID + "').remove()",
+                                               HttpMethod = "Delete"
+                                           },
+                                               new {@class = "btn btn-danger"})
+                                    </td>
+                                </tr>
+                            }
+
+
+                        </tbody>
+                    </table>
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new { page,  @ViewBag.searchString }))
+                </div>
+                <!-- /.table-responsive -->
+            </div>
+        </div>
+    </div>
+</div>

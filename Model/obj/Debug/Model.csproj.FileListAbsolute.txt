@@ -1,0 +1,94 @@
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\Model.dll.config
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\Model.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\Model.pdb
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\EntityFramework.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\EntityFramework.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\obj\Debug\Model.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\obj\Debug\Model.pdb
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\PagedList.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\PagedList.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\Model.dll.config
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\Model.dll
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\Model.pdb
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\EntityFramework.dll
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\PagedList.dll
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\EntityFramework.xml
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\PagedList.xml
+C:\Users\Joseph\Desktop\OnlineSeller\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Joseph\Desktop\OnlineSeller\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\OnlineSeller\Model\obj\Debug\Model.dll
+C:\Users\Joseph\Desktop\OnlineSeller\Model\obj\Debug\Model.pdb
+D:\OnlineSeller\Model\bin\Debug\Model.dll.config
+D:\OnlineSeller\Model\bin\Debug\Model.dll
+D:\OnlineSeller\Model\bin\Debug\Model.pdb
+D:\OnlineSeller\Model\bin\Debug\EntityFramework.dll
+D:\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\OnlineSeller\Model\bin\Debug\PagedList.dll
+D:\OnlineSeller\Model\bin\Debug\PagedList.Mvc.dll
+D:\OnlineSeller\Model\bin\Debug\System.Web.WebPages.dll
+D:\OnlineSeller\Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\OnlineSeller\Model\bin\Debug\System.Web.Razor.dll
+D:\OnlineSeller\Model\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\OnlineSeller\Model\bin\Debug\EntityFramework.xml
+D:\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\OnlineSeller\Model\bin\Debug\PagedList.xml
+D:\OnlineSeller\Model\bin\Debug\PagedList.Mvc.xml
+D:\OnlineSeller\Model\bin\Debug\System.Web.WebPages.xml
+D:\OnlineSeller\Model\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\OnlineSeller\Model\bin\Debug\System.Web.Razor.xml
+D:\OnlineSeller\Model\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\OnlineSeller\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\OnlineSeller\Model\obj\Debug\Model.dll
+D:\OnlineSeller\Model\obj\Debug\Model.pdb
+I:\Daattttt\OnlineSeller\Model\bin\Debug\Model.dll.config
+I:\Daattttt\OnlineSeller\Model\bin\Debug\Model.dll
+I:\Daattttt\OnlineSeller\Model\bin\Debug\Model.pdb
+I:\Daattttt\OnlineSeller\Model\bin\Debug\EntityFramework.dll
+I:\Daattttt\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.dll
+I:\Daattttt\OnlineSeller\Model\bin\Debug\PagedList.dll
+I:\Daattttt\OnlineSeller\Model\bin\Debug\PagedList.Mvc.dll
+I:\Daattttt\OnlineSeller\Model\bin\Debug\System.Web.WebPages.dll
+I:\Daattttt\OnlineSeller\Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\Daattttt\OnlineSeller\Model\bin\Debug\System.Web.Razor.dll
+I:\Daattttt\OnlineSeller\Model\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\Daattttt\OnlineSeller\Model\bin\Debug\EntityFramework.xml
+I:\Daattttt\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.xml
+I:\Daattttt\OnlineSeller\Model\bin\Debug\PagedList.xml
+I:\Daattttt\OnlineSeller\Model\bin\Debug\PagedList.Mvc.xml
+I:\Daattttt\OnlineSeller\Model\bin\Debug\System.Web.WebPages.xml
+I:\Daattttt\OnlineSeller\Model\bin\Debug\Microsoft.Web.Infrastructure.xml
+I:\Daattttt\OnlineSeller\Model\bin\Debug\System.Web.Razor.xml
+I:\Daattttt\OnlineSeller\Model\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\Daattttt\OnlineSeller\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+I:\Daattttt\OnlineSeller\Model\obj\Debug\Model.dll
+I:\Daattttt\OnlineSeller\Model\obj\Debug\Model.pdb
+D:\Study\OnlineSeller\Model\bin\Debug\Model.dll.config
+D:\Study\OnlineSeller\Model\bin\Debug\Model.dll
+D:\Study\OnlineSeller\Model\bin\Debug\Model.pdb
+D:\Study\OnlineSeller\Model\bin\Debug\EntityFramework.dll
+D:\Study\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\OnlineSeller\Model\bin\Debug\PagedList.dll
+D:\Study\OnlineSeller\Model\bin\Debug\PagedList.Mvc.dll
+D:\Study\OnlineSeller\Model\bin\Debug\System.Web.WebPages.dll
+D:\Study\OnlineSeller\Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Study\OnlineSeller\Model\bin\Debug\System.Web.Razor.dll
+D:\Study\OnlineSeller\Model\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Study\OnlineSeller\Model\bin\Debug\EntityFramework.xml
+D:\Study\OnlineSeller\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\OnlineSeller\Model\bin\Debug\PagedList.xml
+D:\Study\OnlineSeller\Model\bin\Debug\PagedList.Mvc.xml
+D:\Study\OnlineSeller\Model\bin\Debug\System.Web.WebPages.xml
+D:\Study\OnlineSeller\Model\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Study\OnlineSeller\Model\bin\Debug\System.Web.Razor.xml
+D:\Study\OnlineSeller\Model\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Study\OnlineSeller\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Study\OnlineSeller\Model\obj\Debug\Model.dll
+D:\Study\OnlineSeller\Model\obj\Debug\Model.pdb

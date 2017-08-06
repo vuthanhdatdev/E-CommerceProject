@@ -1,0 +1,54 @@
+﻿@model List<Model.EF.Menu>
+<div class="headertop_desc">
+    <div class="call">
+        <p><span>Need help?</span> call us <span class="number">094.347.6316</span></p>
+    </div>
+    <div class="account_desc">
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li><a href="@item.Link" target="@item.Target">@item.Text</a></li>
+            }
+        </ul>
+    </div>
+    <div class="clear"></div>
+</div>
+
+
+<div class="header_top">
+    <div class="logo">
+        <a href="/"> CJ Shop </a>
+    </div>
+    <!-- Cart -->
+    @{Html.RenderAction("_Cart", "Home"); }
+    <!--End Cart -->
+    <script type="text/javascript">
+			function DropDown(el) {
+				this.dd = el;
+				this.initEvents();
+			}
+			DropDown.prototype = {
+				initEvents : function() {
+					var obj = this;
+
+					obj.dd.on('click', function(event){
+						$(this).toggleClass('active');
+						event.stopPropagation();
+					});
+				}
+			}
+
+			$(function() {
+
+				var dd = new DropDown( $('#dd') );
+
+				$(document).click(function() {
+					// all dropdowns
+					$('.wrapper-dropdown-2').removeClass('active');
+				});
+
+			});
+
+    </script>
+    <div class="clear"></div>
+</div>

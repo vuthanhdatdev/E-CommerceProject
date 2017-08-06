@@ -1,0 +1,227 @@
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\csc.exe
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\vbc.exe
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll.config
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\OnlineSeller.pdb
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Razor.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Razor.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.csprojResolveAssemblyReference.cache
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.pdb
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\Model.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\EntityFramework.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\Model.pdb
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\EntityFramework.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\PagedList.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\PagedList.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.xml
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\CKFinder.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.dll
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\CKFinder.pdb
+C:\Users\devth\documents\visual studio 2015\Projects\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\csc.exe
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\vbc.exe
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll.config
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\OnlineSeller.pdb
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\CKFinder.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\EntityFramework.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\Model.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\PagedList.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Razor.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\Model.pdb
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\CKFinder.pdb
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\EntityFramework.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\PagedList.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Razor.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.xml
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.dll
+C:\Users\Joseph\Desktop\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.pdb
+D:\OnlineSeller\OnlineSeller\bin\roslyn\csc.exe
+D:\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OnlineSeller\OnlineSeller\bin\roslyn\System.Collections.Immutable.dll
+D:\OnlineSeller\OnlineSeller\bin\roslyn\System.Reflection.Metadata.dll
+D:\OnlineSeller\OnlineSeller\bin\roslyn\vbc.exe
+D:\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe
+D:\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe.config
+D:\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll.config
+D:\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll
+D:\OnlineSeller\OnlineSeller\bin\OnlineSeller.pdb
+D:\OnlineSeller\OnlineSeller\bin\CKFinder.dll
+D:\OnlineSeller\OnlineSeller\bin\EntityFramework.dll
+D:\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.dll
+D:\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OnlineSeller\OnlineSeller\bin\Microsoft.Web.Infrastructure.dll
+D:\OnlineSeller\OnlineSeller\bin\Model.dll
+D:\OnlineSeller\OnlineSeller\bin\PagedList.dll
+D:\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.dll
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.dll
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.dll
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Razor.dll
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.dll
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.dll
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.dll
+D:\OnlineSeller\OnlineSeller\bin\Model.pdb
+D:\OnlineSeller\OnlineSeller\bin\CKFinder.pdb
+D:\OnlineSeller\OnlineSeller\bin\EntityFramework.xml
+D:\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.xml
+D:\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OnlineSeller\OnlineSeller\bin\PagedList.xml
+D:\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.xml
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Razor.xml
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.xml
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.xml
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.xml
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.xml
+D:\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.xml
+D:\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.csprojResolveAssemblyReference.cache
+D:\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.dll
+D:\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.pdb
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\csc.exe
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\System.Collections.Immutable.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\System.Reflection.Metadata.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\vbc.exe
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe.config
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll.config
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\OnlineSeller.pdb
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\CKFinder.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\EntityFramework.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\Microsoft.Web.Infrastructure.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\Model.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\PagedList.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Razor.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\Model.pdb
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\CKFinder.pdb
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\EntityFramework.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\PagedList.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Razor.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.xml
+I:\Daattttt\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.csprojResolveAssemblyReference.cache
+I:\Daattttt\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.dll
+I:\Daattttt\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.pdb
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\csc.exe
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\vbc.exe
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe
+D:\Study\OnlineSeller\OnlineSeller\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll.config
+D:\Study\OnlineSeller\OnlineSeller\bin\OnlineSeller.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\OnlineSeller.pdb
+D:\Study\OnlineSeller\OnlineSeller\bin\CKFinder.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\EntityFramework.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\Model.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\PagedList.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Razor.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\Model.pdb
+D:\Study\OnlineSeller\OnlineSeller\bin\CKFinder.pdb
+D:\Study\OnlineSeller\OnlineSeller\bin\EntityFramework.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\EntityFramework.SqlServer.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\PagedList.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\PagedList.Mvc.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Razor.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Deployment.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Webpages.Razor.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Helpers.xml
+D:\Study\OnlineSeller\OnlineSeller\bin\System.Web.Mvc.xml
+D:\Study\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.csprojResolveAssemblyReference.cache
+D:\Study\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.dll
+D:\Study\OnlineSeller\OnlineSeller\obj\Debug\OnlineSeller.pdb
+D:\Study\OnlineSeller\OnlineSeller\bin\BotDetect.dll
+D:\Study\OnlineSeller\OnlineSeller\bin\BotDetect.Web.UI.Mvc.dll

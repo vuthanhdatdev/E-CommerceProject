@@ -1,0 +1,14 @@
+﻿@model List<Model.EF.Footer>
+<div class="footer">
+    <div class="wrap">
+        <div class="section group">
+            @foreach (var item in Model)
+            {
+                @Html.Raw(item.Content)
+            }
+        </div>
+    </div>
+    <div class="copy_right">
+        <p>CJ © All rights Reseverd | Design by  <a href="http://www.facebook.com/CJ.Rindaman">Thành Đạt</a> </p>
+    </div>
+</div>

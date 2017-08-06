@@ -1,0 +1,76 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listNewProducts = (List<Model.EF.Product>)ViewBag.NewProducts;
+    var listFeatureProducts = (List<Model.EF.Product>)ViewBag.ListFeatureProducts;
+}
+
+
+@section Slide
+{
+    @{Html.RenderAction("Slide","Home");}
+}
+
+@section Menu_Left
+{
+    @{Html.RenderAction("Menu_Left", "Product"); }
+}
+
+<div class="content">
+    <div class="content_top">
+        <div class="heading">
+            <h3>New Product</h3>
+        </div>
+        <div class="see">
+            <p><a href="/product">View all Products</a></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="section group">
+        @foreach (var item in listNewProducts)
+        {
+            var url = "/detail/" + item.MetaTitle + "-" + item.ID;
+            <div class="grid_1_of_4 images_1_of_4">
+                <a href="@url"><img src="@item.Img" alt="@item.Name" /></a>
+                <h2>@item.Name</h2>
+                <div class="price-details">
+                    <div class="price-number">
+                        <p><span class="rupees">@(item.price.HasValue ? item.price.Value.ToString("N0") : "Liên hệ")</span></p>
+                    </div>
+                    <div class="add-cart">
+                        <h4><a href="/add-to-cart?productId=@item.ID&quantity=1">Add to cart</a></h4>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        }
+
+    </div>
+    <div class="content_bottom">
+        <div class="heading">
+            <h3>Best Seller Product</h3>
+        </div>
+        <div class="see">
+            <p><a href="/product">View All Product</a></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="section group">
+        @foreach (var item in listFeatureProducts)
+        {
+            var url = "/detail/" + item.MetaTitle + "-" + item.ID;
+            <div class="grid_1_of_4 images_1_of_4">
+                <a href="@url"><img src="@item.Img" alt="@item.Name" /></a>
+                <h2>@item.Name</h2>
+                <div class="price-details">
+                    <div class="price-number">
+                        <p><span class="rupees">@(item.price.HasValue ? item.price.Value.ToString("N0") : "Liên hệ")</span></p>
+                    </div>
+                    <div class="add-cart">
+                        <h4><a href="/add-to-cart?productId=@item.ID&quantity=1">Add to cart</a></h4>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
