@@ -1,5 +1,6 @@
 # E-CommerceProject
-Author: Vũ Thành Đạt - CoderNator Blog owner
+## Authors
+* **Vũ Thành Đạt - CoderNator Blog owner
 
 
 
